@@ -1,0 +1,8 @@
+{"timestamp":"2026-10-29T13:30:47.310Z","level":"INFO","message":"Mathify Web Server running on http://localhost:3000"}
+{"timestamp":"2026-10-29T13:30:50.382Z","level":"INFO","message":"Database initialized successfully"}
+{"timestamp":"2026-10-29T13:30:50.384Z","level":"INFO","message":"Creating default admin account..."}
+{"timestamp":"2026-10-29T13:30:50.478Z","level":"WARN","message":"✅ Default admin account created successfully!"}
+{"timestamp":"2026-10-29T13:34:02.998Z","level":"INFO","message":"Mathify Web Server running on http://localhost:3000"}
+{"timestamp":"2026-10-29T13:34:03.006Z","level":"INFO","message":"Database initialized successfully"}
+{"timestamp":"2026-10-29T15:24:31.501Z","level":"INFO","message":"Mathify Web Server running on http://localhost:3000"}
+{"timestamp":"2026-10-29T15:24:31.520Z","level":"INFO","message":"Database initialized successfully"}
